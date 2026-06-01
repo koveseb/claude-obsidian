@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "skills": {
+    "autoresearch": {
+      "source": "koveklaw/claude-obsidian",
+      "sourceType": "local",
+      "skillPath": "skills/autoresearch/SKILL.md",
+      "computedHash": "dcb4febd0454741c1143c24c2d443b754d55ec700a80d5357fba6ae377d78f46"
+    },
+    "canvas": {
+      "source": "koveklaw/claude-obsidian",
+      "sourceType": "local",
+      "skillPath": "skills/canvas/SKILL.md",
+      "computedHash": "64ebc467200603060bb9d5137e6f6d1858390ef02176d58d12c8d628647d0fc0"
+    },
+    "defuddle": {
+      "source": "koveklaw/claude-obsidian",
+      "sourceType": "local",
+      "skillPath": "skills/defuddle/SKILL.md",
+      "computedHash": "d54c795a45b01014bc9bd91540d2536bc27db3e90ce66b6e69fc7bcf3d19c1be"
+    },
+    "obsidian-bases": {
+      "source": "koveklaw/claude-obsidian",
+      "sourceType": "local",
+      "skillPath": "skills/obsidian-bases/SKILL.md",
+      "computedHash": "0daed81783a550bf1128d5e27fea00d0b1b6148ab343513ff087a7b1c25e9828"
+    },
+    "obsidian-markdown": {
+      "source": "koveklaw/claude-obsidian",
+      "sourceType": "local",
+      "skillPath": "skills/obsidian-markdown/SKILL.md",
+      "computedHash": "e633917041ca618088cd62bcbe43ec5f8be50cbccc010c153e4dc2564bb288a2"
+    },
+    "save": {
+      "source": "koveklaw/claude-obsidian",
+      "sourceType": "local",
+      "skillPath": "skills/save/SKILL.md",
+      "computedHash": "be2e00222783f6c584c86bcf817082a4950675417c78961167e2e8d02246103a"
+    },
+    "think": {
+      "source": "koveklaw/claude-obsidian",
+      "sourceType": "local",
+      "skillPath": "skills/think/SKILL.md",
+      "computedHash": "eec7f849420beeab258c081531a65a2ee36a116ea824f14b5375e384a77e2d0c"
+    },
+    "wiki": {
+      "source": "koveklaw/claude-obsidian",
+      "sourceType": "local",
+      "skillPath": "skills/wiki/SKILL.md",
+      "computedHash": "5b9f9aca0bdc9dd5f455807e6be9a79ad5ce451ad2fb04feeaa500b48dad8be8"
+    },
+    "wiki-cli": {
+      "source": "koveklaw/claude-obsidian",
+      "sourceType": "local",
+      "skillPath": "skills/wiki-cli/SKILL.md",
+      "computedHash": "e9e2ac5350d4cfd9f5276258a9f995be980dc039db15ddb7beef28f1405503b0"
+    },
+    "wiki-fold": {
+      "source": "koveklaw/claude-obsidian",
+      "sourceType": "local",
+      "skillPath": "skills/wiki-fold/SKILL.md",
+      "computedHash": "fbf12d2a730689463d8343465491043602388919d5d174d6159e495ef0135d14"
+    },
+    "wiki-ingest": {
+      "source": "koveklaw/claude-obsidian",
+      "sourceType": "local",
+      "skillPath": "skills/wiki-ingest/SKILL.md",
+      "computedHash": "bd51ea2d2f40478b9c0120bc9eca4370d3b89024f9d865db36f79b06888fa9b3"
+    },
+    "wiki-lint": {
+      "source": "koveklaw/claude-obsidian",
+      "sourceType": "local",
+      "skillPath": "skills/wiki-lint/SKILL.md",
+      "computedHash": "25d0234f38654b103bcf67126b787edc40e3178ebe7951f00fc9417914caaa93"
+    },
+    "wiki-mode": {
+      "source": "koveklaw/claude-obsidian",
+      "sourceType": "local",
+      "skillPath": "skills/wiki-mode/SKILL.md",
+      "computedHash": "10eff29df61da8dc1f949ffcf082cdb2f86e4a2a71006ffaadacba37e0ac2ce4"
+    },
+    "wiki-query": {
+      "source": "koveklaw/claude-obsidian",
+      "sourceType": "local",
+      "skillPath": "skills/wiki-query/SKILL.md",
+      "computedHash": "341f7a34a00da3f0316f13985986f38dbe2fef7053c2145b5faeca7751af43c2"
+    },
+    "wiki-retrieve": {
+      "source": "koveklaw/claude-obsidian",
+      "sourceType": "local",
+      "skillPath": "skills/wiki-retrieve/SKILL.md",
+      "computedHash": "f64a8e6fe9bb82070fcbe76cd7b97afa111f06445c54f9a3dee72035ac0dc493"
+    }
+  }
+}

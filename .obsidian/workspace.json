@@ -8,7 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a31de1b302cdc5cf",
+            "id": "a681881dd7875a9e",
+            "type": "leaf",
+            "state": {
+              "type": "thino-changelog-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "thino-changelog-view"
+            }
+          },
+          {
+            "id": "521014f27dff005a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -17,7 +27,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,13 +178,23 @@
               "icon": "lucide-ghost",
               "title": "calendar"
             }
+          },
+          {
+            "id": "9d6edde0440df524",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,9 +204,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-memos:Thino": false,
+      "obsidian-memos:Thino Super": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a31de1b302cdc5cf",
-  "lastOpenFiles": []
+  "active": "521014f27dff005a",
+  "lastOpenFiles": [
+    "AGENTS.md",
+    "skills-lock.json",
+    "CODE_OF_CONDUCT.md"
+  ]
 }
